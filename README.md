@@ -10,3 +10,9 @@ entails achieving high accuracy in species identification, ensuring consistent t
 detecting rare species. Additionally, the system aims to provide comprehensive displays of
 tracked species, their locations, population trends, and environmental impact assessments,
 facilitating informed conservation decisions.
+
+<img src="https://github.com/Dharmil290998/End-to-end-Data-Engineer-Project-E-commerce/blob/main/Project%20Flow.png">
+
+<img src="https://github.com/Dharmil290998/End-to-end-Data-Engineer-Project-E-commerce/blob/main/Project%20Flow.png">
+
+<img src="https://github.com/Dharmil290998/End-to-end-Data-Engineer-Project-E-commerce/blob/main/Project%20Flow.png">
