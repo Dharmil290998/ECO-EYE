@@ -1,8 +1,0 @@
-pandas
-matplotlib
-seaborn
-numpy
-opencv-python-headless  # Use this for server environments
-scikit-learn
-tensorflow
-keras
