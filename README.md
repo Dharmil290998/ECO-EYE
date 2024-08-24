@@ -13,6 +13,8 @@ facilitating informed conservation decisions.
 
 <img src="https://github.com/Dharmil290998/ECO-EYE/blob/main/Web%20page-1.jpg">
 
+
 <img src="https://github.com/Dharmil290998/ECO-EYE/blob/main/Web%20page-2.jpg">
+
 
 <img src="https://github.com/Dharmil290998/ECO-EYE/blob/main/Web%20page-3.jpg">
