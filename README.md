@@ -11,8 +11,8 @@ detecting rare species. Additionally, the system aims to provide comprehensive d
 tracked species, their locations, population trends, and environmental impact assessments,
 facilitating informed conservation decisions.
 
-<img src="https://github.com/Dharmil290998/End-to-end-Data-Engineer-Project-E-commerce/blob/main/Project%20Flow.png">
+<img src="https://github.com/Dharmil290998/ECO-EYE/blob/main/Web%20page-1.jpg">
 
-<img src="https://github.com/Dharmil290998/End-to-end-Data-Engineer-Project-E-commerce/blob/main/Project%20Flow.png">
+<img src="https://github.com/Dharmil290998/ECO-EYE/blob/main/Web%20page-2.jpg">
 
-<img src="https://github.com/Dharmil290998/End-to-end-Data-Engineer-Project-E-commerce/blob/main/Project%20Flow.png">
+<img src="https://github.com/Dharmil290998/ECO-EYE/blob/main/Web%20page-3.jpg">
